@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">I'm programmer student passionate about code and games</h3>
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byuubink&label=Profile%20views&color=0e75b6&style=flat" alt="byuubink" /> </p>
 

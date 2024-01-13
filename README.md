@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bianca</h1>
 <h3 align="center">I'm programmer student passionate about code and games</h3>
-![d348bfee5593d27f4131620f93a715a0](https://github.com/byuuBink/byuuBink/assets/93622405/e33f8b24-e050-4e4a-8b8b-da221c78ac9d)
-
+![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=byuubink&label=Profile%20views&color=0e75b6&style=flat" alt="byuubink" /> </p>
 
